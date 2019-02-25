@@ -13,7 +13,7 @@
 	</ul>
 </div>
 
-![Image of Yaktocat](src/lk/ijse/dep/app/images/posMain1.jpg)				
+![Image of Yaktocat](src/lk/ijse/dep/app/images/22.PNG)				
 
 
 

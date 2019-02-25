@@ -11,9 +11,6 @@ public class DAOFactory {
         CUSTOMER,ITEM,ORDER, ORDER_DETAIL,QUERY;
     }
 
-//    public static final int DAO_CUSTOMER = 0;
-//    public static final int DAO_ITEM = 1;
-
     private DAOFactory() {
 
     }

@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package lk.ijse.dep.app.view.util;
 
-/**
- *
- * @author ranjith-suranga
- */
 public class CustomerTM {
     
     private String id;
